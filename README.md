@@ -1,6 +1,6 @@
 # 🧠 SkimLit – Medical Abstract Classification
 
-🚀 A deep learning NLP project to classify medical research abstract sentences into structured sections.
+🚀Deep learning NLP project to classify ~200K+ PubMed abstract sentences into structured sections using TensorFlow (CNN, LSTM, hybrid embeddings).
 
 ## 📌 Overview
 This project builds and compares machine learning and deep learning models to classify sentences from medical abstracts into predefined categories.
