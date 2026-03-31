@@ -1,0 +1,63 @@
+============================================================
+SAMPLE 1 — Diabetes & Exercise Intervention
+============================================================
+Type 2 diabetes mellitus remains a major global health burden with increasing prevalence across all age groups.
+The purpose of this study was to evaluate whether a structured aerobic exercise program reduces HbA1c levels in adults with type 2 diabetes.
+A total of 120 adults aged 40–65 with confirmed type 2 diabetes were randomly assigned to either a 12-week supervised aerobic exercise group or a usual-care control group.
+HbA1c, fasting blood glucose, body mass index, and quality-of-life scores were measured at baseline and at 12 weeks.
+Participants in the exercise group attended three 45-minute sessions per week on a treadmill at 60–70% of maximum heart rate.
+After 12 weeks, the exercise group showed a significant reduction in HbA1c compared to the control group (6.9% vs 7.8%, p < 0.001).
+Fasting blood glucose also decreased significantly in the exercise group (mean difference: −18.4 mg/dL, 95% CI: −24.1 to −12.7).
+No serious adverse events were reported in either group.
+Structured aerobic exercise significantly improves glycemic control in adults with type 2 diabetes and should be incorporated into standard diabetes management protocols.
+
+============================================================
+SAMPLE 2 — Hypertension & Salt Reduction
+============================================================
+Hypertension affects approximately 1.28 billion adults worldwide and is a leading risk factor for cardiovascular disease and stroke.
+Dietary sodium reduction has been proposed as a cost-effective non-pharmacological strategy to lower blood pressure at the population level.
+This randomized controlled trial investigated the effect of a low-sodium diet on systolic and diastolic blood pressure in hypertensive adults over 8 weeks.
+Eighty hypertensive patients were recruited from outpatient clinics and randomly allocated to a low-sodium diet group (target < 1500 mg/day) or a normal diet control group.
+Blood pressure was measured weekly using a standardized automated sphygmomanometer; 24-hour urinary sodium excretion was used to confirm dietary adherence.
+Participants in the low-sodium group achieved a mean urinary sodium of 1,320 mg/day compared to 3,450 mg/day in the control group.
+Systolic blood pressure decreased by 9.2 mmHg in the low-sodium group versus 1.4 mmHg in the control group (p = 0.003).
+Diastolic blood pressure showed a similar trend with a reduction of 4.8 mmHg versus 0.9 mmHg respectively.
+A low-sodium diet produces clinically meaningful reductions in blood pressure among hypertensive adults and represents a viable adjunct to pharmacological treatment.
+
+============================================================
+SAMPLE 3 — Depression & Cognitive Behavioral Therapy
+============================================================
+Major depressive disorder is one of the most prevalent psychiatric conditions globally, with significant impact on daily functioning and quality of life.
+Cognitive behavioral therapy has demonstrated efficacy in treating depression, yet its comparative effectiveness against pharmacotherapy in primary care settings remains debated.
+We conducted a randomized trial comparing 16 weeks of CBT, sertraline, and placebo in 210 adults with moderate-to-severe major depressive disorder.
+Participants were recruited from six primary care clinics and randomized 1:1:1 to CBT, sertraline (50–200 mg/day), or placebo.
+The primary outcome was change in Hamilton Depression Rating Scale score at 16 weeks; secondary outcomes included remission rates and quality-of-life scores.
+Both CBT and sertraline produced significantly greater reductions in HDRS scores compared to placebo (CBT: −8.3 points; sertraline: −7.9 points; placebo: −3.1 points; p < 0.001 for both).
+Remission rates were 42% for CBT, 38% for sertraline, and 17% for placebo.
+Adverse events were more frequent in the sertraline group, primarily nausea and insomnia, while CBT showed no significant side effects.
+Both CBT and sertraline are effective treatments for moderate-to-severe depression in primary care, with CBT offering a comparable benefit without pharmacological side effects.
+
+============================================================
+SAMPLE 4 — COVID-19 Vaccine Efficacy
+============================================================
+The rapid emergence of SARS-CoV-2 necessitated the accelerated development of effective vaccines to reduce morbidity and mortality worldwide.
+This study assessed the real-world effectiveness of an mRNA-based COVID-19 vaccine in preventing symptomatic infection and hospitalization in adults aged 18 and older.
+A prospective cohort of 45,000 adults was followed for six months; 22,500 received two doses of the mRNA vaccine and 22,500 were unvaccinated matched controls.
+Symptomatic COVID-19 cases were confirmed by RT-PCR; hospitalization and ICU admission rates were extracted from electronic health records.
+Vaccine effectiveness against symptomatic infection was 87% (95% CI: 83–90%) at one month post-second dose.
+Effectiveness against hospitalization was 94% (95% CI: 91–96%) and against ICU admission was 97% (95% CI: 93–99%).
+Effectiveness declined modestly to 74% against symptomatic infection at six months, suggesting potential need for booster doses.
+The mRNA COVID-19 vaccine demonstrates high real-world effectiveness against symptomatic disease and severe outcomes, supporting continued vaccination efforts and booster strategies.
+
+============================================================
+SAMPLE 5 — Sleep Deprivation & Cognitive Performance
+============================================================
+Chronic sleep deprivation is increasingly recognized as a public health concern linked to impaired cognitive function and increased accident risk.
+This study examined whether partial sleep restriction over five consecutive nights impairs working memory and sustained attention in healthy young adults.
+Thirty healthy adults aged 18–30 were randomized to a sleep restriction group (5 hours per night) or a normal sleep group (8 hours per night) for five nights in a controlled laboratory setting.
+Working memory was assessed using the n-back task; sustained attention was measured with the Psychomotor Vigilance Task at baseline and after each night.
+Participants in the sleep restriction group showed progressive deterioration in both working memory accuracy (−14.2% by night 5, p < 0.01) and PVT reaction time (+112 ms, p < 0.001).
+The normal sleep group showed no significant changes across the five nights.
+Subjective sleepiness ratings correlated strongly with objective performance deficits (r = 0.71, p < 0.001).
+Five nights of partial sleep restriction causes significant and progressive impairment in working memory and sustained attention, highlighting the importance of adequate sleep for cognitive health.
+
