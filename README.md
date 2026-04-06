@@ -171,8 +171,8 @@ project/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone 
+cd into project-folder
 ```
 
 ### 2️⃣ Install Dependencies
